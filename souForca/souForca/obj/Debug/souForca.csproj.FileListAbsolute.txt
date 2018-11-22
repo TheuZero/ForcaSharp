@@ -1,0 +1,8 @@
+C:\Users\CPD\Documents\SharpDevelop Projects\souForca\souForca\obj\Debug\souForca.csprojResolveAssemblyReference.cache
+C:\Users\CPD\Documents\SharpDevelop Projects\souForca\souForca\obj\Debug\souForca.MainForm.resources
+C:\Users\CPD\Documents\SharpDevelop Projects\souForca\souForca\obj\Debug\souForca.csproj.GenerateResource.Cache
+C:\Users\CPD\Documents\SharpDevelop Projects\souForca\souForca\bin\Debug\souForca.exe.config
+C:\Users\CPD\Documents\SharpDevelop Projects\souForca\souForca\bin\Debug\souForca.exe
+C:\Users\CPD\Documents\SharpDevelop Projects\souForca\souForca\bin\Debug\souForca.pdb
+C:\Users\CPD\Documents\SharpDevelop Projects\souForca\souForca\obj\Debug\souForca.exe
+C:\Users\CPD\Documents\SharpDevelop Projects\souForca\souForca\obj\Debug\souForca.pdb
